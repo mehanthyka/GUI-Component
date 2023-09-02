@@ -142,8 +142,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 <img width="960" alt="Screenshot 2023-08-31 211807" src="https://github.com/mehanthyka/GUI-Component/assets/127507580/13d0bd6c-c327-463c-800f-d19b1284ea8a">
 <img width="960" alt="Screenshot 2023-08-31 211859" src="https://github.com/mehanthyka/GUI-Component/assets/127507580/ebc232fe-b005-4d11-8175-b44ed2040860">
-![image](https://github.com/mehanthyka/GUI-Component/assets/127507580/83dcfea4-1758-4e95-8429-f10370a5e471)
-![image](https://github.com/mehanthyka/GUI-Component/assets/127507580/3df4978e-d394-42d6-a376-5fda131d4246)
+<img width="98" alt="Screenshot 2023-09-02 171828" src="https://github.com/mehanthyka/GUI-Component/assets/127507580/5ad6ff12-23ed-4505-828d-fe66f8ea662d">
+<br><img width="92" alt="Screenshot 2023-09-02 171851" src="https://github.com/mehanthyka/GUI-Component/assets/127507580/3e9c72c4-d229-476c-bdea-5a550b8c5489">
 
 ## RESULT:
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
